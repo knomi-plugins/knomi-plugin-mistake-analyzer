@@ -1,0 +1,12 @@
+{
+  "id": "mistake-analyzer",
+  "name": "错因分析官",
+  "version": "0.1.0",
+  "description": "反馈阶段：错题归因（粗心/知识薄弱/久未巩固）+ 差评退回，让每一次作答都有反馈出口",
+  "entry": "index.js",
+  "permissions": [
+    "db:read",
+    "db:write",
+    "agent:tools"
+  ]
+}
